@@ -18,10 +18,7 @@ st.sidebar.success("Select a page.")
 st.markdown(
     """
     This application enables to compress both RGB and grayscale images using unsupervised learning algorithms.
-    These include mini-batch K-means, and PCA (principal component analysis).
-
-    Select a subpage from sidebar, upload an image and have fun experienting! :fire:
-
+    These include mini-batch K-means, a
     ## Example:
     Below you can see an result of applying clustering image compression to a picture of water drops.
     It is plain to see that the more clusters we use, the less compressed the image becomes.
